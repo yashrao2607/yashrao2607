@@ -1,21 +1,102 @@
-# 💫 About Me:
-# Hello World 👋, I'm Yash Yadav<br><br>🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver | Builder Mindset<br><br>---<br><br>## 💫 About Me<br><br>I don’t just write code — I build things that *actually work in the real world*.<br><br>From developing AI-driven applications to crafting full-stack systems, I focus on creating solutions that are **practical, scalable, and impactful**.<br><br>💡 I enjoy turning complex ideas into simple, usable products — whether it's an AI-based system, a real-time application, or a clean user experience.<br><br>⚡ Currently exploring the intersection of:<br><br>* AI + Real-world problem solving<br>* Scalable backend systems<br>* Smart automation & intelligent workflows<br><br>🧠 Always learning. Always building. Always improving.<br><br>---<br><br>## 🏆 Achievements<br><br>🥇 Winner — IIT Ropar Hackathon (Innovation) 2025<br>🥉 3rd Place — AI Agentic Hackathon (Swafinix Technologies)<br>🏅 4th Place — Amity University App Innovation Challenge<br>🔹 Top 25 — Google 30-Hour Agentic Hackathon<br>
+<div align="center">
+  <h1 align="center">Yash Yadav</h1>
+  <p>
+    <code><b>Architecting Scalable Systems & Applied AI Solutions</b></code>
+  </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-yadav-1b6285291/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashrao2607&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashrao2607&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full-Stack+Engineer;AI%2FML+Practitioner;System+Architect;Hackathon+Winner" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashrao2607&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashrao2607) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yashrao2607) 
+<br>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashrao2607&show_icons=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0D1117&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrao2607&theme=tokyonight&hide_border=true&background=0D1117&fire=3B82F6&ring=3B82F6" width="48%" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="60%" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### 🧠 Engineering Philosophy
+> I operate at the intersection of **full-stack engineering** and **applied machine learning**. My objective is to design systems that are not only theoretically robust but pragmatically execution-ready. I architect well-documented, scalable pipelines that solve complex computational friction, optimizing for clean design patterns, steep learning curves, and high-impact infrastructure.
+
+---
+
+### 🏆 Proof of Work & Competitions
+Execution speaks louder than theory. I thrive in high-stakes environments where rapid prototyping meets architectural integrity.
+
+| Rank | Competition | Domain |
+|:---:|:---|:---|
+| 🥇 | **Winner** — IIT Ropar Hackathon (2025) | Innovation |
+| 🥉 | **3rd Place** — AI Agentic Hackathon | Autonomous Systems |
+| 🏅 | **4th Place** — Amity University App Challenge | Application Engineering |
+| 🚀 | **Top 25** — Google 30-Hour Hackathon | Global Agentic AI |
+
+---
+
+### ⚙️ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,c,js,react,nodejs,express,tailwind,docker,vercel,mongodb,mysql,firebase,git,github&perline=15" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP_&_LLMs-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-6B4EFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-F9AB00?style=for-the-badge" />
+</div>
+
+---
+
+### 🏗️ Selected Architecture
+
+| ✦ System | ✦ Domain & Capabilities | ✦ Stack |
+|:---|:---|:---|
+| **[Project Alpha](https://github.com/yashrao2607/project1)** | Enterprise-grade engine optimizing for concurrent load and latency. | `React` `Node.js` `MongoDB` |
+| **[Project Beta](https://github.com/yashrao2607/project2)** | LLM-powered context assimilation tool for modular data extraction. | `Python` `LangChain` `Docker` |
+| **[Project Gamma](https://github.com/yashrao2607/project3)** | Core workflow automation addressing cross-platform redundancies. | `Machine Learning` `APIs` |
+
+> *(Insert specific repositories here to demonstrate complex system logic and architectural integrity).*
+
+---
+
+### 🛰️ Current Focus & Momentum
+Right now, my engineering priorities are concentrated on:
+* 🤖 Architecting resilient, stateful **Agentic workflows** for high-volume execution.
+* 📊 Expanding system performance benchmarks for modern **Retrieval-Augmented Generation (RAG)** implementations.
+* ⚡ Building modular, low-latency APIs connecting cutting-edge machine learning with seamless frontend experiences.
+
+---
+
+### 📡 Terminal / Connect
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+</div>
