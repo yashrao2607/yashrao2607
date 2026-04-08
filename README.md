@@ -1,20 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Yash%20Yadav&fontSize=80&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="developer_banner_yash.png" width="100%" alt="Yash Yadav Banner" />
 </div>
 
 <div align="center">
+  <h1>Yash Yadav</h1>
   <p>
     <code><b>Architecting Scability & Full-Stack AI Pipelines</b></code>
   </p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=System+Architect;RAG+Engineer;Stack+Optimizer;Hackathon+Champion" alt="Typing SVG" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashrao2607&theme=tokyonight&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -54,19 +49,25 @@ I thrive in high-pressure environments where execution velocity meets architectu
 
 ### 📊 Vital Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrao2607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrao2607&theme=tokyonight&hide_border=true&background=0D1117&fire=3B82F6&ring=3B82F6" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashrao2607&show_icons=true&theme=dark&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrao2607&theme=dark&hide_border=true&fire=3B82F6&ring=3B82F6" width="48%" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&layout=compact&theme=dark&hide_border=true&title_color=3B82F6" width="60%" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrao2607&theme=react-dark&area=true&hide_border=true&point=true" width="100%" alt="Line Chart Activity Graph" />
 </div>
 
 ---
 
-### 🐉 Mesmerizing Contribution Graph
+### 🕹️ Contribution Galaxy
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/github-contribution-grid-snake-dark.svg">
@@ -78,7 +79,11 @@ I thrive in high-pressure environments where execution velocity meets architectu
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/ocean.svg" alt="Ocean Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 ---
