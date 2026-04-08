@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="developer_banner_yash.png" width="100%" alt="Yash Yadav Banner" />
-</div>
-
-<div align="center">
   <h1>Yash Yadav</h1>
   <p>
     <code><b>Architecting Scability & Full-Stack AI Pipelines</b></code>
