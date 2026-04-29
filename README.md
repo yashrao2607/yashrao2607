@@ -1,113 +1,73 @@
 <div align="center">
   <h1>Yash Yadav</h1>
-  <p>
-    <code><b>Architecting Scability & Full-Stack AI Pipelines</b></code>
+  <p align="center">
+    <b>Software Architect | Data Engineer | Full-Stack AI Specialist</b><br />
+    <i>Engineering scalable solutions at the intersection of Data Science and Software Systems.</i>
   </p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=System+Architect;RAG+Engineer;Stack+Optimizer;Hackathon+Champion" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/yash-yadav-1b6285291/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:yashrao2607@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=System+Architect;RAG+Engineer;Data+Analyst;Hackathon+Champion" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 The Engineering Intent
-> I solve high-dimensional problems with a focus on **computational efficiency** and **applied intelligence**. My work bridges the gap between raw data and scalable user experiences, specializing in **RAG pipelines**, **Agentic workflows**, and **performant full-stack architectures**. I build for the long-term, optimizing for code maintainability and system resilience.
+### ⚡ The Core Philosophy
+I specialize in solving high-dimensional problems by bridging the gap between raw data and scalable user experiences. My work focuses on **computational efficiency**, **applied intelligence**, and **architectural resilience**. Whether it's optimizing **RAG pipelines**, deploying **Agentic workflows**, or building **performant full-stack applications**, I engineer for impact and longevity.
 
 ---
 
 ### 🏆 Distinguished Credits
-I thrive in high-pressure environments where execution velocity meets architectural integrity.
-
-| Milestone | Event / Organization | Focus |
-|:---:|:---|:---|
-| 🥇 | **Winner** — IIT Ropar Hackathon (2025) | Open Innovation |
-| 🥉 | **3rd Place** — AI Agentic Hackathon | Autonomous Agents |
-| 🏅 | **4th Place** — Amity University App Challenge | Product Innovation |
-| 🚀 | **Top 25** — Google 30-Hour Hackathon | Global Agentic Challenge |
+*   🥇 **Winner** — IIT Ropar Hackathon (2025) | *Open Innovation*
+*   🥉 **3rd Place** — AI Agentic Hackathon | *Autonomous Systems*
+*   🏅 **4th Place** — Amity University App Challenge | *Product Innovation*
+*   🚀 **Top 25** — Google 30-Hour Hackathon | *Global Agentic Challenge*
 
 ---
 
-### 🛠️ Core Stack & Intelligence
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,js,react,nodejs,express,tailwind,docker,vercel,mongodb,mysql,firebase,git,github,postman,vscode&perline=9" />
-</div>
+### 🛠️ Technical Ecosystem & Intelligence
 
-<br />
+**Data Science & Analytics**
+`Python (Pandas, NumPy, Scikit-Learn)` `SQL (PostgreSQL, MySQL)` `Vector Databases (Pinecone, ChromaDB)` `Exploratory Data Analysis (EDA)`
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP_&_LLMs-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-6B4EFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-3B82F6?style=for-the-badge" />
-</div>
+**Software Engineering & Architecture**
+`Java` `Node.js` `Express` `RESTful APIs` `Microservices` `Docker` `System Design`
+
+**Front-End Engineering**
+`React.js` `Next.js` `Tailwind CSS` `Framer Motion` `TypeScript`
+
+**AI & Automation**
+`RAG (Retrieval-Augmented Generation)` `Agentic AI Workflows` `LLM Orchestration` `NLP` `LangChain`
 
 ---
 
-### 📊 Vital Statistics
+### 🚀 Momentum & Current Focus
+*   🤖 **Agentic Systems:** Developing multi-modal autonomous agents for complex task automation.
+*   📈 **Data Infrastructure:** Optimizing large-scale vector search and data retrieval systems.
+*   ⚡ **Scalable Backend:** Engineering low-latency microservices that handle high-concurrency loads.
+
+---
+
+### 📊 Vital Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashrao2607&show_icons=true&theme=dark&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrao2607&theme=dark&hide_border=true&fire=3B82F6&ring=3B82F6" width="48%" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&layout=compact&theme=dark&hide_border=true&title_color=3B82F6" width="60%" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrao2607&theme=react-dark&area=true&hide_border=true&point=true" width="100%" alt="Line Chart Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&layout=compact&theme=dark&hide_border=true&title_color=3B82F6" width="48%" alt="Top Languages" />
 </div>
 
 ---
 
-### 🕹️ Contribution Galaxy
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <p><b>Yash Yadav (Dipu) | @yashrao2607</b></p>
+  <p>Looking for a high-impact Data Analyst or Software Developer? Let's build something extraordinary.</p>
+  <a href="https://www.linkedin.com/in/yash-yadav-1b6285291/"><b>Connect on LinkedIn →</b></a>
 </div>
 
-<br />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
-
----
-
-### 🛰️ Trajectory & Current Momentum
-* 🤖 Deep-diving into **multi-modal Agentic systems** for hyper-automation.
-* 📈 Optimizing **vector database infrastructure** for large-scale RAG deployments.
-* ⚡ Engineering low-latency **micro-services** that scale with precision.
-
----
-
-### 📡 Connection Terminal
-<div align="center">
-  <a href="mailto:yashrao2607@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-yadav-1b6285291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/yashrao2607" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
-  </a>
-  <a href="https://ko-fi.com/yashrao2607" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="60" alt="Ko-fi" />
-  </a>
-</div>
+<!-- SEO Hidden Keywords: Yash Yadav, Dipu, yashrao2607, Data Analyst, Software Developer, Java, Python, SQL, Machine Learning, RAG Engineer, AI Engineer, India, IIT Ropar Hackathon Winner -->
