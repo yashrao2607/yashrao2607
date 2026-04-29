@@ -27,8 +27,8 @@ Yash Yadav IIT Ropar, Yash Yadav Hackathon, Yash Yadav Java Developer.
 
 ---
 
-### ⚡ The Core Philosophy (Yash Yadav | Dipu)
-I am **Yash Yadav** (commonly known as **Dipu** and online as **yashrao2607**), a high-impact engineer specializing in **Data Analytics** and **Software Development**. My mission is to bridge the gap between complex datasets and scalable user experiences. By leveraging **Machine Learning**, **RAG Pipelines**, and **Agentic AI**, I build systems that are not just functional but intelligent and resilient. Whether you know me as **Yash Yadav**, **Dipu**, or **yashrao2607**, I deliver elite execution on every project.
+### ⚡ The Core Philosophy 
+I am **Yash Yadav** , a high-impact engineer specializing in **Data Analytics** and **Software Development**. My mission is to bridge the gap between complex datasets and scalable user experiences. By leveraging **Machine Learning**, **RAG Pipelines**, and **Agentic AI**, I build systems that are not just functional but intelligent and resilient. Whether you know me as **Yash Yadav**, **Dipu**, or **yashrao2607**, I deliver elite execution on every project.
 
 ---
 
@@ -83,7 +83,7 @@ I am **Yash Yadav** (commonly known as **Dipu** and online as **yashrao2607**), 
 ---
 
 <div align="center">
-  <p><b>Yash Yadav (Known as Dipu) | @yashrao2607</b></p>
+  <p><b>Yash Yadav (Dipu) | @yashrao2607</b></p>
   <p>Looking for a high-impact <b>Data Analyst</b> or <b>Software Developer</b>? Let's build something extraordinary.</p>
   <a href="https://www.linkedin.com/in/yash-yadav-1b6285291/"><b>Connect on LinkedIn →</b></a>
 </div>
