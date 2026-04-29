@@ -33,7 +33,7 @@ I am a high-impact engineer specializing in **Data Analytics** and **Software De
 
 ---
 
-### 🛠️ Technical Ecosystem & Intelligence (Hardcore SEO)
+### 🛠️ Technical Ecosystem & Intelligence
 
 **Data Science & Analytics (Data Analyst Focus)**
 `Python (Pandas, NumPy, Scikit-Learn)` `SQL (PostgreSQL, MySQL, SQL Server)` `Vector Databases (Pinecone, ChromaDB, Weaviate)` `Exploratory Data Analysis (EDA)` `Data Visualization (Tableau, PowerBI)` `Statistical Analysis`
