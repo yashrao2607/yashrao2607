@@ -1,3 +1,10 @@
+<!-- 
+SEO Metadata for GitHub Search Indexing
+Keywords: Yash Yadav, Yash Yadav GitHub, yashrao2607, yashrao, yashrao2607 GitHub, 
+Dipu, Dipu Yadav, Software Developer Yash Yadav, Data Analyst Yash Yadav, 
+Yash Yadav IIT Ropar, Yash Yadav Hackathon, Yash Yadav Java Developer.
+-->
+
 <div align="center">
   <h1>Yash Yadav</h1>
   <p align="center">
@@ -6,7 +13,7 @@
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/yash-yadav-1b6285291/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Yash Yadav" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Yash Yadav (yashrao2607)" />
     </a>
     <a href="mailto:yashrao2607@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - Yash Yadav (Dipu)" />
@@ -21,7 +28,7 @@
 ---
 
 ### ⚡ The Core Philosophy (Yash Yadav | Dipu)
-I am a high-impact engineer specializing in **Data Analytics** and **Software Development**. My mission is to bridge the gap between complex datasets and scalable user experiences. By leveraging **Machine Learning**, **RAG Pipelines**, and **Agentic AI**, I build systems that are not just functional but intelligent and resilient. Whether you know me as **Yash Yadav**, **Dipu**, or **yashrao2607**, I deliver elite execution on every project.
+I am **Yash Yadav** (commonly known as **Dipu** and online as **yashrao2607**), a high-impact engineer specializing in **Data Analytics** and **Software Development**. My mission is to bridge the gap between complex datasets and scalable user experiences. By leveraging **Machine Learning**, **RAG Pipelines**, and **Agentic AI**, I build systems that are not just functional but intelligent and resilient. Whether you know me as **Yash Yadav**, **Dipu**, or **yashrao2607**, I deliver elite execution on every project.
 
 ---
 
