@@ -10,7 +10,7 @@ React Developer, Python Developer, IEEE Multimedia Research
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+LLMs%2C+RAG+Systems+%26+AI+Agents;Google+Agentic+AI+Day+Finalist;IIT+Ropar+Hackathon+Winner;Applied+AI+Research+%7C+Scalable+Software+Systems" />
+
 
 <br/>
 
