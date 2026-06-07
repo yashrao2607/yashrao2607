@@ -1,97 +1,353 @@
-<!-- 
-SEO Metadata for GitHub Search Indexing
-Keywords: Yash Yadav, Yash Yadav GitHub, yashrao2607, yashrao, yashrao2607 GitHub, 
-Dipu, Dipu Yadav, Software Developer Yash Yadav, Data Analyst Yash Yadav, 
-Yash Yadav IIT Ropar, Yash Yadav Hackathon, Yash Yadav Java Developer.
+<!--
+SEO Keywords:
+Yash Yadav, yashrao2607, AI Engineer, Full Stack Developer,
+Generative AI, RAG Engineer, AI Agents, IIT Ropar Hackathon Winner,
+Google Agentic AI Day Finalist, OCI Data Science Professional,
+BML Munjal University, Machine Learning Engineer,
+LLM Engineer, Applied AI Researcher, Next.js Developer,
+React Developer, Python Developer, IEEE Multimedia Research
 -->
 
 <div align="center">
-  <h1>Yash Yadav</h1>
-  <p align="center">
-    <b>Software Architect | Data Engineer | Full-Stack AI Specialist</b><br />
-    <i>Engineering scalable, data-driven solutions for the next generation of AI systems.</i>
-  </p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/yash-yadav-1b6285291/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Yash Yadav (yashrao2607)" />
-    </a>
-    <a href="mailto:yashrao2607@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - Yash Yadav (Dipu)" />
-    </a>
-  </p>
-  
-  <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=System+Architect;RAG+Engineer;Data+Analyst;Hackathon+Champion" alt="Yash Yadav - yashrao2607 - Software Developer & Data Analyst" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+LLMs%2C+RAG+Systems+%26+AI+Agents;Google+Agentic+AI+Day+Finalist;IIT+Ropar+Hackathon+Winner;Applied+AI+Research+%7C+Scalable+Software+Systems" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850"/>
+
+# Hi, I'm Yash Yadav 👋
+
+### AI Engineer • Full Stack Developer • Applied AI Researcher
+
+Building intelligent systems with **Generative AI**, **AI Agents**, **RAG Pipelines**, and **Scalable Software Engineering**.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yash-yadav-1b6285291/">
+<img src="https://img.shields.io/badge/LinkedIn-Yash%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dipu63082@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/YashYadav2607/">
+<img src="https://img.shields.io/badge/LeetCode-YashYadav2607-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/yashrao2607">
+<img src="https://img.shields.io/github/followers/yashrao2607?label=Followers&style=for-the-badge"/>
+</a>
+
 </div>
 
 ---
 
-### ⚡ The Core Philosophy 
-I am **Yash Yadav** , a high-impact engineer specializing in **Data Analytics** and **Software Development**. My mission is to bridge the gap between complex datasets and scalable user experiences. By leveraging **Machine Learning**, **RAG Pipelines**, and **Agentic AI**, I build systems that are not just functional but intelligent and resilient. Whether you know me as **Yash Yadav**, **Dipu**, or **yashrao2607**, I deliver elite execution on every project.
+# 💫 About Me
+
+```yaml
+Name: Yash Yadav
+
+Role:
+  - AI Engineer
+  - Full Stack Developer
+  - Applied AI Researcher
+
+Education:
+  Degree: B.Tech Computer Science & Engineering
+  University: BML Munjal University
+  Graduation: 2027
+
+Focus Areas:
+  - Generative AI
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - AI Agents
+  - Full Stack Development
+  - Machine Learning
+
+Research:
+  - Medical Image Security
+  - Deep Learning
+  - CNN + Transformer Architectures
+
+Current Mission:
+  Building production-grade AI systems
+  that create measurable real-world impact.
+```
 
 ---
 
-### 🏆 Distinguished Credits (Elite Recognition)
-*   🥇 **Winner** — IIT Ropar Hackathon (2025) | *Open Innovation & System Architecture*
-*   🥉 **3rd Place** — AI Agentic Hackathon | *Autonomous AI Agents & Automation*
-*   🏅 **4th Place** — Amity University App Challenge | *Product Innovation & Software Engineering*
-*   🚀 **Top 25** — Google 30-Hour Hackathon | *Global Agentic AI Challenge*
+# 🏆 Achievements
+
+🥇 **Winner — IIT Ropar GenAI Hackathon**
+
+🏆 **Google Cloud Agentic AI Day Finalist**
+Top 25 Teams among 6500+ Participants
+
+🥉 **3rd Place — Swafinix Agentic AI Hackathon**
+
+🏅 **Top 8 — Amity University App Challenge**
+
+🏆 **Winner — Smart India Hackathon Internal Round**
+
+🥈 **2nd Place — CEO For A Cause**
+
+📄 **Research Author — IEEE Multimedia Submission**
+
+☁️ **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
 
 ---
 
-### 🛠️ Technical Ecosystem & Intelligence
+# 🚀 Tech Stack
 
-**Data Science & Analytics (Data Analyst Focus)**
-`Python (Pandas, NumPy, Scikit-Learn)` `SQL (PostgreSQL, MySQL, SQL Server)` `Vector Databases (Pinecone, ChromaDB, Weaviate)` `Exploratory Data Analysis (EDA)` `Data Visualization (Tableau, PowerBI)` `Statistical Analysis`
-
-**Software Engineering & Architecture (Software Developer Focus)**
-`Java (Spring Boot)` `Node.js` `Express` `RESTful APIs` `Microservices` `Docker` `Kubernetes` `Git & GitHub` `System Design` `CI/CD`
-
-**Front-End Engineering**
-`React.js` `Next.js` `Tailwind CSS` `Framer Motion` `TypeScript` `JavaScript (ES6+)`
-
-**AI & Automation (AI Engineer Focus)**
-`RAG (Retrieval-Augmented Generation)` `Agentic AI Workflows` `LLM Orchestration (LangChain, LlamaIndex)` `NLP (Natural Language Processing)` `Deep Learning`
-
----
-
-### 🚀 Momentum & Current Focus
-*   🤖 **Agentic Systems:** Architecting multi-modal autonomous agents for hyper-automation.
-*   📈 **Data Infrastructure:** Optimizing large-scale vector search and data retrieval systems.
-*   ⚡ **Scalable Backend:** Engineering low-latency microservices that handle high-concurrency loads.
-
----
-
-### 📊 Vital Metrics (Yash Yadav Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashrao2607&show_icons=true&theme=dark&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" alt="Yash Yadav GitHub Stats - yashrao2607" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&layout=compact&theme=dark&hide_border=true&title_color=3B82F6" width="48%" alt="Yash Yadav Top Languages - yashrao2607" />
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" />
+
+<br/><br/>
+
+## AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Systems-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-orange?style=for-the-badge"/>
+
+<br/><br/>
+
+## Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,firebase,postgres,mongodb,docker,git,github,vscode" />
+
 </div>
 
-<br />
+---
 
-### 🕹️ Contribution Galaxy (Pacman Graph)
+# 🧠 Featured Projects
+
+## 🌾 KishanBhai — AI Agricultural Co-Pilot
+
+> AI-powered agricultural assistant helping farmers through intelligent recommendations, multilingual support, crop guidance, and knowledge retrieval.
+
+### Highlights
+
+✅ IIT Ropar Hackathon Winner
+
+✅ Incubation & Funding Opportunity
+
+✅ AI-powered crop intelligence workflows
+
+### Tech
+
+`Next.js`
+`TypeScript`
+`Firebase`
+`Gemini AI`
+`RAG`
+
+---
+
+## 🤖 ELI AI — Autonomous Desktop Agent
+
+> Voice-first autonomous desktop agent capable of executing workflows using multimodal AI.
+
+### Highlights
+
+✅ OCR-based screen understanding
+
+✅ Semantic file search
+
+✅ Natural language task execution
+
+### Tech
+
+`Electron`
+`React`
+`TypeScript`
+`Gemini AI`
+`LanceDB`
+
+---
+
+## 📈 Financial Forensics AI
+
+> AI-powered financial intelligence platform for stock analysis, market research, and investment insights.
+
+### Highlights
+
+✅ AI-generated financial reports
+
+✅ Advanced analytics dashboards
+
+✅ Intelligent stock research workflows
+
+### Tech
+
+`FastAPI`
+`PostgreSQL`
+`Redis`
+`Gemini AI`
+`Next.js`
+
+---
+
+## 🚀 OClario
+
+> AI-powered resume intelligence platform helping users evaluate and improve resumes.
+
+### Highlights
+
+✅ 2200+ users
+
+✅ Resume analysis workflows
+
+✅ Subscription and analytics integration
+
+### Tech
+
+`React`
+`PostgreSQL`
+`Cloudflare R2`
+`Razorpay`
+
+---
+
+# 📄 Research
+
+## A Hybrid DWT-CNN Embedding and Transformer-Based Extraction Framework for Invisible Watermarking of Multimodal Medical Data
+
+### Research Areas
+
+- Deep Learning
+- Computer Vision
+- Medical Imaging
+- CNN Architectures
+- Transformer Models
+- Healthcare Security
+
+### Publication Status
+
+📄 Submitted to IEEE Multimedia
+
+---
+
+# 🌱 Currently Exploring
+
+- Agentic AI Systems
+- Autonomous AI Workflows
+- Multi-Agent Architectures
+- Advanced RAG Systems
+- Production LLM Applications
+- AI Infrastructure Engineering
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph - Yash Yadav (Dipu) - yashrao2607" src="https://raw.githubusercontent.com/yashrao2607/yashrao2607/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashrao2607&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrao2607&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashrao2607&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashrao2607&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashrao2607&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Problem Solving
+
+### Data Structures & Algorithms
+
+✅ 300+ Problems Solved
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YashYadav2607?theme=dark&font=Nunito&ext=heatmap"/>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+- IBM Machine Learning with Python
+- IBM Deep Learning with PyTorch
+- IBM Deep Learning with Keras & TensorFlow
+- IBM Introduction to Artificial Intelligence
+- IBM Generative AI
+- Prompt Engineering
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:dipu63082@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yash-yadav-1b6285291/">
+<img src="https://img.shields.io/badge/LinkedIn-Yash%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/yashrao2607">
+<img src="https://img.shields.io/badge/GitHub-yashrao2607-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/YashYadav2607/">
+<img src="https://img.shields.io/badge/LeetCode-YashYadav2607-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <p><b>Yash Yadav (Dipu) | @yashrao2607</b></p>
-  <p>Looking for a high-impact <b>Data Analyst</b> or <b>Software Developer</b>? Let's build something extraordinary.</p>
-  <a href="https://www.linkedin.com/in/yash-yadav-1b6285291/"><b>Connect on LinkedIn →</b></a>
-</div>
 
-<!-- 
-HARDCORE SEO SECTION (Hidden for search indexers)
-Keywords: Yash Yadav, Yash Yadav Dipu, Dipu Yadav, yashrao2607, yashrao, yash yadav developer, yash yadav data analyst, 
-Software Developer India, Data Analyst India, Java Developer, Python Developer, SQL Expert, Machine Learning Engineer, 
-RAG Engineer, Agentic AI Specialist, IIT Ropar Hackathon Winner, BML Munjal University, Computer Science Engineer, 
-Full Stack Web Developer, Backend Engineer, Frontend Engineer, AI Automation, LLM Engineer, Next.js Developer, React Developer.
--->
+### ⚡ Building AI Products • Publishing Research • Solving Real Problems
+
+<img src="https://komarev.com/ghpvc/?username=yashrao2607&label=Profile+Views&color=0e75b6"/>
+
+</div>
