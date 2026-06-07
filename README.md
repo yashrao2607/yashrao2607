@@ -9,9 +9,6 @@ React Developer, Python Developer, IEEE Multimedia Research
 -->
 
 <div align="center">
-
-
-
 <br/>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850"/>
