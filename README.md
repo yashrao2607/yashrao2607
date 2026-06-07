@@ -9,9 +9,12 @@ React Developer, Python Developer, IEEE Multimedia Research
 -->
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+LLMs%2C+RAG+Systems+%26+AI+Agents;Google+Agentic+AI+Day+Finalist;IIT+Ropar+Hackathon+Winner;Applied+AI+Research+%7C+Scalable+Software+Systems" />
+
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVvYjdzcjh6MXo0OGdnYTVxajJzZmlheGZyeHNneDcxNmE4YzBqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ei2yv8fqpR3nJG8/giphy.gif" width="850" height="350"/>
 
 # Hi, I'm Yash Yadav 👋
 
